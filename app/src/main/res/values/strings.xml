@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AadEjercicio1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Razon">Se necesita acceso a los contactos para descargarlos</string>
+    <string name="Test">Lanzado</string>
+    <string name="descargar_contactos">Descargar contactos del telefono</string>
+    <string name="guardar_contactos">Guardar contactos</string>
+    <string name="aqui_va_la_lista_de_contactos">Aqui va la lista de contactos</string>
+    <string name="respSi">Si</string>
+    <string name="respNo">No</string>
+    <string name="tituloExplicacion">Se necesitan permisos de escritura</string>
+    <string name="mensajeExplicacion">Los permisos de escritura son necesarios para crear el archivo de contactos</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="almacenamiento">Almacenamiento</string>
+    <string name="recordarRuta">Recordar ruta de archivo</string>
+    <string name="cargar_archivo">Cargar archivo</string>
+    <string name="csv">.csv</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre_del_archivo">Nombre del archivo</string>
+    <string name="historial">Historial</string>
+    <string name="historial_de_guardado">Historial de guardado</string>
+    <string name="contactos">Contactos</string>
+    <string name="interna">Interna</string>
+    <string name="privada">Privada</string>
+    <string name="borrar_historial">Borrar\nhistorial</string>
+</resources>
